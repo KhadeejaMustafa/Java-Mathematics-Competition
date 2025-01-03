@@ -378,7 +378,7 @@ public class MainClass extends javax.swing.JFrame {
     }
 
     private void terminateApplication() {
-        JOptionPane.showMessageDialog(this, "Congradulations to the winners ✨\n See you next time!", "Message", JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(this, "Congratulations to the winners ✨\n See you next time!", "Message", JOptionPane.INFORMATION_MESSAGE);
     }
 
     public static void main(String args[]) {
